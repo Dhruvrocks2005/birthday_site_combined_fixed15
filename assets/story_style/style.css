@@ -306,16 +306,4 @@ body {
     }
 }
 
-/* ===== CHATBOX WIDTH FIX (horizontal, not vertical) ===== */
-.hbd-chatbox{
-  width: min(1100px, 95vw) !important;
-  max-width: 1100px !important;
-  height: auto !important;
-  min-height: 70px !important;
-  padding: 8px 12px !important;
-  box-sizing: border-box;
-}
-.hbd-chatbox p{
-  white-space: normal !important;
-  word-break: break-word;
-}
+

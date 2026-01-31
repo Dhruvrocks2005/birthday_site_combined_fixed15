@@ -1,0 +1,17 @@
+{
+  "name": "Swara",
+  "greetingText": "Hey!",
+  "wishText": "Wishing you the happiest birthday. 💖",
+  "imagePath": "../assets/story_img/nobita.jpg",
+  "storyChatbox": "Today is all about you — my favorite smile and my favorite person.",
+  "treeMessageLines": [
+    "You’re my favorite person.",
+    "Thank you for being you.",
+    "Happy Birthday, my love. ❤️"
+  ],
+  "celebrateHeading": "Have the most special day ✨",
+  "letterTitle": "To My Cutiepie",
+  "letterBody": "You make my days brighter and my life sweeter.\nYour smile, your kindness, and your caring heart make everything around you feel warm and safe.\n\nAnyone who knows you is lucky —\nbut I’m the luckiest, because I get to call you mine.\n\nI hope your birthday is filled with love, laughter, and a little bit of magic 💝\nBecause someone as special as you deserves nothing less.\n\nHappy Birthday, Swara ❤️\n— Dhruv",
+  "letterButtonLabel": "Open your letter 💌",
+  "birthdayDateText": "1 February 2006"
+}

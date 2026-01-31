@@ -306,4 +306,9 @@ body {
     }
 }
 
-
+.hbd-chatbox{
+    min-height: 0 !important;
+    height: auto !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
